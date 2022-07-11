@@ -17,7 +17,7 @@ Note: The same song may appear multiple times in the playlist. It is guaranteed 
 
 Complete the playlist function in your editor. It has 3 parameters:
 
-An array of n strings, songs, where the value of each element si corresponds to the song at index i in the playlist (where 0 ≤ i < n).
+An array of n strings, songs, where the value of each element is corresponds to the song at index i in the playlist (where 0 ≤ i < n).
 An integer, k, the index of song sk.
 A string, q, the name of the song you wish to switch to.
 It must return an integer denoting the minimum number of button presses needed to switch from song sk to song q.
